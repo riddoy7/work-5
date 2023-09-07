@@ -1,0 +1,28 @@
+.form1{
+    background-color: yellow;
+    color: black;
+    text-align: center;
+    font-size: 40px;
+    margin: 0 auto;
+    width: fit-content;
+    height: fit-content;
+    padding: 20px 70px;
+    margin-top: 150px;
+    border-radius: 20px;
+    box-shadow: red gray;
+}
+.form1 input{
+    padding: 5px 15px;
+    border-color: green;
+    border-radius: 50px;
+
+}
+.form1 .btn{
+    font-style: oblique;
+    font-weight: bold;
+}
+@media (max-width: 768px)
+{
+    
+}
+
